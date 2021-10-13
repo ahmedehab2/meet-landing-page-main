@@ -1,7 +1,6 @@
 # Meet landing page
 
-Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/meet-landing-page-T5fLtcFs1)
+Front end mentor challenge : [Link](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR)
 
 ## Demo
-
-https://ahmedehab2.github.io/Meet-landing-page/
+[Here](https://ahmedehab2.github.io/meet-landing-page-main/)
